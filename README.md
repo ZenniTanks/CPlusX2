@@ -1,4 +1,5 @@
-# CPlusX2
-Small collection of C++ programs and files.
+# CollectionDump
+
+Collection of files and progam written in different programing languages.
 
 First repository on GitHub.
